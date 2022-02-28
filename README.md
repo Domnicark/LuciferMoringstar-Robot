@@ -47,7 +47,7 @@
 * `FORCE_SUB`: ID of channel. Without subscribing this channel users cannot use bot.
 * `AUTH_GROUPS` : Id Of Groups Which Bot Should Work As Autofilter, Bot Can Only Work In Thease Groups. If Not Given , Bot Can Be Used In Any Group.
 * `AUTH_USERS`: Username Or Id Of Users To Give Access Of Inline Search. Separate Multiple Users By Space. Leave It Empty If You Don't Want To Restrict Bot Usage.
-* `START_MSG`: Welcome Message For Start Command Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/start_msg)
+* `START_MSG`: Welcome Message For Start Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/start_msg)
 * `CUSTOM_FILE_CAPTION` : A Custom Caption For Your Files. Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/file_caption.txt)
 * `PICS`: Telegraph Random Photo Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/photo.txt)
 * `DEV_NAME` : Developer Name
